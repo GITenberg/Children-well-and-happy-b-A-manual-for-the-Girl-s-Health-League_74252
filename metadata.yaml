@@ -1,0 +1,35 @@
+_repo: Children-well-and-happy-b-A-manual-for-the-Girl-s-Health-League_74252
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kimball, May Dickinson
+    alias: Dickinson, May Bliss
+    birthdate: 1867
+    deathdate: 1955
+    gutenberg_agent_id: '57411'
+    url: http://www.gutenberg.org/2009/agents/57411
+description: ''
+gutenberg_issued: '2024-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74252'
+  lccn: '18013241'
+language: en
+pgterms:marc904: https://archive.org/details/childrenwellhapp00kimb/page/n5/mode/2up
+pgterms:marc905: 20210425121251dickinsonr
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Charlene Taylor, Chris Miceli and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bLeRoy Phillips, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hygiene'
+- !lcsh 'Infants -- Health and hygiene'
+- !lcc 'RJ'
+- GITenberg
+title: 'Children well and happy : $b A manual for the Girl''s Health League'
+url: http://www.gutenberg.org/ebooks/74252
